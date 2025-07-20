@@ -4,5 +4,6 @@ pandas
 scikit-learn
 matplotlib
 seaborn
+PyYAML
 
 #-e .
